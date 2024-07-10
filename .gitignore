@@ -1,0 +1,6 @@
+# Ignorar archivos .exe
+*.exe
+*.env
+
+# Ignorar directorio __pycache__
+__pycache__/
